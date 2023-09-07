@@ -1,17 +1,11 @@
 {
-    "name": "mick/pipe-operator",
+    "name": "emycakes/pipe-operator",
     "license": "Apache-2.0",
     "description": "A crude implementation of https://wiki.php.net/rfc/pipe-operator, use at your own risk",
     "type": "library",
-    "authors": [
-        {
-            "name": "Mick Paliokas",
-            "email": "mick.paliokas@tvplayer.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
-            "MickPaliokas\\": "src"
+            "Emycakes\\": "src"
         },
         "files": [
             "src/functions.php"
