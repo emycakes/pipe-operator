@@ -8,7 +8,7 @@ Quick start:
 "repositories": [
   {
     "type": "git",
-    "url": "git@github.com:mickpaliokas/pipe-operator.git"
+    "url": "git@github.com:emycakes/pipe-operator.git"
   }
 ]
 ```
