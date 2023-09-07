@@ -1,6 +1,6 @@
 <?php
 
-use MickPaliokas\Pipeline;
+use Emycakes\Pipeline;
 
 if (! function_exists('pipe')) {
     function pipe($value)
