@@ -1,6 +1,6 @@
 <?php
 
-namespace MickPaliokas;
+namespace Emycakes;
 
 /**
  * Class Pipeline
